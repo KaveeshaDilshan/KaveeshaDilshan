@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaveesha Dilshan
 - 👀 I’m interested in Software development , designing and Computer technologies.
-- 🌱 I’m currently learning Computer Science & Engineering (University of Moratuwa)
-- 💞️ I’m looking to collaborate on new projects.
+- 🌱 Graduated in Computer Science & Engineering from the University of Moratuwa.
+- 💞️ Looking to collaborate on new projects.
 - 📫 this is my linked in profile ==> https://www.linkedin.com/in/kaveesha-dilshan/
 
 <!---
